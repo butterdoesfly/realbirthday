@@ -1,15 +1,14 @@
 #wrapper {
-    width: 800x;
-    border: 1px solid black;
+    width: 80%;
     overflow: auto;
 }
 #input {
-    width: 350px;
+    width: 50%;
     float:left; /* add this */
     border: 1px solid black;
 }
 #info {
-    width: 200px
+    width: 40%;
     border: 1px solid black;
     overflow: auto;
 }
