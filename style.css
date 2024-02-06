@@ -5,7 +5,7 @@
 }
 #input {
     width: 30%; 
-    margin: auto;
+    float: auto;
     border: 1px solid black;
 }
 #info {
