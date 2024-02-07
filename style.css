@@ -9,13 +9,15 @@
 }
 #input {
     width: 30%; 
-    left: 50%;
+    left: 35%;
+    position: absolute;
     display: inline-block;
     border: 1px solid black;
 }
 #info {
     width: 15%;
-    right:100%;
+    right:80%;
+    position: absolute;
     display: inline-block;
     border: 1px solid black;
 }
