@@ -1,3 +1,3 @@
-function click() {
-  alert("Hello Sir!");
+function calculate() {
+  console.log("Hello World!");
 }
