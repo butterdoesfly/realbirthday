@@ -1,3 +1,8 @@
+@import "compass/css3";
+
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+$red: #e74c3c;
+
 * {
 	text-align: center;
 }
@@ -65,11 +70,6 @@ input[type=text] {
 }
 
 /*Everything above this was made by me */
-
-@import "compass/css3";
-
-@import url(https://fonts.googleapis.com/css?family=Merriweather);
-$red: #e74c3c;
 
 *, 
 *:before, 
