@@ -1,3 +1,3 @@
-function onclick() {
+function click() {
   alert("Hello Sir!");
 }
