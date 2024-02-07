@@ -14,9 +14,9 @@
 
   <div id="wrapper">
     
-  <div id="input">
-    <p>What year were you born?</p>
-    <input type="number" placeholder="Example: 1990"></input>
+  <div id="input" class="form__group field">
+    <input type="number" placeholder="Year of Birth" class="form__field" ></input>
+    <label for="yob" class="form__label">Year of Birth</label>
     <br>
     <p>What month were you born?</p>
     <select>
@@ -34,8 +34,8 @@
       <option>December</option>
     </select>
     <br>
-    <p>What day were you born?</p>
-    <input type="number" placeholder="Example: 10"></input>
+    <input type="number" placeholder="Day of Birth" class="form__field" ></input>
+    <label for="dob" class="form__label">Day of Birth</label>
     <br>
     <br>
     <button type="submit" value="Submit" onclick="calculate()">Submit</button>
