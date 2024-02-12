@@ -1,6 +1,6 @@
 .topnav {
-  background-color: #E6E6E6;
   overflow: hidden;
+  background-color: #f8f8f8;
 }
 .topnav a {
   float: left;
@@ -11,9 +11,8 @@
 }
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
 }
 
 .topnav a.active {
-  background-color: #A5A5A5;
+  background-color: #f1f1f1;
 }
