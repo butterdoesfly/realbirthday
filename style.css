@@ -1,5 +1,5 @@
 .topnav {
-  background-color: #333;
+  background-color: #E6E6E6;
   overflow: hidden;
 }
 .topnav a {
@@ -16,6 +16,6 @@
 }
 
 .topnav a.active {
-  background-color: #E3E3E3;
+  background-color: #A5A5A5;
   color: white;
 }
